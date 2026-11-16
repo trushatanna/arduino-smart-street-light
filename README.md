@@ -13,7 +13,9 @@ An automated, energy-saving street lighting project powered by an **Arduino Nano
 - Arduino Nano
 - LDR (Light Dependent Resistor) & 10kΩ Resistor
 - HC-SR501 PIR Motion Sensor
-- High-Power LED Module / Relay Driver
+- Relay Module
+- MOS Module
+- Bulb
 - Arduino IDE (C/C++)
 
 ## How It Works
